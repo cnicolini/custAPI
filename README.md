@@ -2,6 +2,11 @@
 
 Sample API to provide CRUD operations.
 
+## Prerequisites
+
+* Install Node
+* Install MongoDB Server
+
 ## Run API on dev environment
 
 ```
